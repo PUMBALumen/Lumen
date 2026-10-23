@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Версия-v1.0.1%20Stable-38bdf8?style=for-the-badge)](https://github.com/PUMBALumen/Lumen/releases)
 [![OS](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0078d4?style=for-the-badge&logo=windows)](https://github.com/PUMBALumen/Lumen)
-[![Owner](https://img.shields.io/badge/Owner-Pumba-eab308?style=for-the-badge)](https://discord.gg/fkktETKmp)
+[![Owner](https://img.shields.io/badge/Owner-Pumba-eab308?style=for-the-badge)](https://discord.gg/lmnlumen)
 [![Discord](https://img.shields.io/badge/Discord-Вступить%20в%20сообщество-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lmnlumen)
 
 > **Lumen** — современный движок живых интерактивных обоев для рабочего стола Windows. Он сочетает высокую производительность (60+ FPS при 0% нагрузки в играх), 3D-параллакс глубину и интерактивное управление медиаплеером прямо с экрана.
@@ -19,7 +19,7 @@
 
 ## 🌟 Что нового в обновлении 1.0.1
 
-* **Авторизация через Discord:** Защита и привязка профиля к сообществу [discord.gg/fkktETKmp](https://discord.gg/fkktETKmp).
+* **Авторизация через Discord:** Защита и привязка профиля к сообществу [discord.gg/lmnlumen](https://discord.gg/lmnlumen).
 * **Глубокий тёмный стиль окна:** Полная интеграция с Windows 11/10 DWM — тёмный заголовок окна и полное устранение белых полос при листании.
 * **Увеличенный монитор предпросмотра:** Просторный обзор 16:9 в высоком разрешении и комфортный крупный шрифт.
 * **Организация рабочего пространства:** Управление экранами и перенос обоев на второй монитор аккуратно вынесены в системные настройки.
@@ -83,7 +83,7 @@
 ## 💬 Сообщество и поддержка
 
 Присоединяйтесь к нашему официальному сообществу в **Discord**:
-👉 **[Вступить в Discord Lumen](https://discord.gg/fkktETKmp)**
+👉 **[Вступить в Discord Lumen](https://discord.gg/lmnlumen)**
 
 *Делитесь вашими живыми обоями, предлагайте идеи новых фич и первыми узнавайте о свежих обновлениях!*
 
