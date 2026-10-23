@@ -1,7 +1,7 @@
 # <img src="icon.png" width="42" height="42" align="center" alt="Lumen Logo" /> Lumen — Инновационные Живые Обои для Windows
 
-[![Version](https://img.shields.io/badge/Версия-v1.0.0%20Stable-38bdf8?style=for-the-badge)](https://github.com/)
-[![OS](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0078d4?style=for-the-badge&logo=windows)](https://github.com/)
+[![Version](https://img.shields.io/badge/Версия-v1.0.0%20Stable-38bdf8?style=for-the-badge)](https://github.com/jkfolpw/Lumen/releases)
+[![OS](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0078d4?style=for-the-badge&logo=windows)](https://github.com/jkfolpw/Lumen)
 [![Owner](https://img.shields.io/badge/Owner-Pumba-eab308?style=for-the-badge)](https://discord.gg/fkktETKmp)
 [![Discord](https://img.shields.io/badge/Discord-Вступить%20в%20сообщество-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fkktETKmp)
 
@@ -13,7 +13,7 @@
 
 | Файл | Описание | Ссылка |
 | :--- | :--- | :--- |
-| **`LumenSetup.exe`** | Официальный быстрый инсталлятор (v1.0.0) | [**Скачать LumenSetup.exe**](https://github.com/) |
+| **`LumenSetup.exe`** | Официальный быстрый инсталлятор (v1.0.0) | [**Скачать LumenSetup.exe (v1.0.0)**](https://github.com/jkfolpw/Lumen/releases/download/v1.0.0/LumenSetup.exe) |
 
 ---
 
