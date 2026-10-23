@@ -80,5 +80,5 @@
 ---
 
 <p align="center">
-  <b>Lumen Live Wallpapers</b> • Создано с ❤️ разработчиком <b>Pumba</b>
+  <b>Lumen</b> • Создано с ❤️ разработчиком <b>Pumba</b>
 </p>
