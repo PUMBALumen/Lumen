@@ -1,6 +1,6 @@
 # <img src="icon.png" width="42" height="42" align="center" alt="Lumen Logo" /> Lumen — Инновационные Живые Обои для Windows
 
-[![Version](https://img.shields.io/badge/Версия-v1.0.0%20Stable-38bdf8?style=for-the-badge)](https://github.com/PUMBALumen/Lumen/releases)
+[![Version](https://img.shields.io/badge/Версия-v1.0.1%20Stable-38bdf8?style=for-the-badge)](https://github.com/PUMBALumen/Lumen/releases)
 [![OS](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0078d4?style=for-the-badge&logo=windows)](https://github.com/PUMBALumen/Lumen)
 [![Owner](https://img.shields.io/badge/Owner-Pumba-eab308?style=for-the-badge)](https://discord.gg/fkktETKmp)
 [![Discord](https://img.shields.io/badge/Discord-Вступить%20в%20сообщество-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fkktETKmp)
@@ -13,7 +13,17 @@
 
 | Файл | Описание | Ссылка |
 | :--- | :--- | :--- |
-| **`LumenSetup.exe`** | Официальный быстрый инсталлятор (v1.0.0) | [**Скачать LumenSetup.exe (v1.0.0)**](https://github.com/PUMBALumen/Lumen/releases/download/v1.0.0/LumenSetup.exe) |
+| **`LumenSetup.exe`** | Официальный быстрый инсталлятор (v1.0.1) | [**Скачать LumenSetup.exe (v1.0.1)**](https://github.com/PUMBALumen/Lumen/releases/download/v1.0.1/LumenSetup.exe) |
+
+---
+
+## 🌟 Что нового в обновлении 1.0.1
+
+* **Авторизация через Discord:** Защита и привязка профиля к сообществу [discord.gg/fkktETKmp](https://discord.gg/fkktETKmp).
+* **Глубокий тёмный стиль окна:** Полная интеграция с Windows 11/10 DWM — тёмный заголовок окна и полное устранение белых полос при листании.
+* **Увеличенный монитор предпросмотра:** Просторный обзор 16:9 в высоком разрешении и комфортный крупный шрифт.
+* **Организация рабочего пространства:** Управление экранами и перенос обоев на второй монитор аккуратно вынесены в системные настройки.
+* **Расширенная кастомизация плеера:** Ползунки высоты, прозрачности, интенсивности неонового свечения и масштабирования.
 
 ---
 
@@ -53,7 +63,7 @@
 
 ## 💻 Системные требования
 
-* **ОС:** Windows 10  или Windows 11 (64-bit)
+* **ОС:** Windows 10 или Windows 11 (64-bit)
 * **Процессор:** 2-ядерный процессор с частотой от 1.8 GHz
 * **ОЗУ:** 2 GB оперативной памяти
 * **Видеокарта:** С поддержкой DirectX 11 / аппаратного ускорения видео
