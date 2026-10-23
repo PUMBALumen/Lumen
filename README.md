@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/Версия-v1.0.1%20Stable-38bdf8?style=for-the-badge)](https://github.com/PUMBALumen/Lumen/releases)
 [![OS](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0078d4?style=for-the-badge&logo=windows)](https://github.com/PUMBALumen/Lumen)
 [![Owner](https://img.shields.io/badge/Owner-Pumba-eab308?style=for-the-badge)](https://discord.gg/fkktETKmp)
-[![Discord](https://img.shields.io/badge/Discord-Вступить%20в%20сообщество-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fkktETKmp)
+[![Discord](https://img.shields.io/badge/Discord-Вступить%20в%20сообщество-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lmnlumen)
 
 > **Lumen** — современный движок живых интерактивных обоев для рабочего стола Windows. Он сочетает высокую производительность (60+ FPS при 0% нагрузки в играх), 3D-параллакс глубину и интерактивное управление медиаплеером прямо с экрана.
 
